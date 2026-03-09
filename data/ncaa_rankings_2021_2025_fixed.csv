@@ -1,0 +1,341 @@
+School,Overall Seed,Berth Type,Season
+Gonzaga,1,Automatic,2021
+Iowa,7,At-Large,2021
+Kansas,12,At-Large,2021
+Virginia,16,At-Large,2021
+Creighton,17,At-Large,2021
+Southern California,21,At-Large,2021
+Oregon,25,At-Large,2021
+Oklahoma,32,At-Large,2021
+Missouri,33,At-Large,2021
+VCU,38,At-Large,2021
+Wichita St.,45,At-Large,2021
+Drake,48,At-Large,2021
+UC Santa Barbara,50,Automatic,2021
+Ohio,51,Automatic,2021
+Eastern Wash.,58,Automatic,2021
+Grand Canyon,59,Automatic,2021
+Norfolk St.,67,Automatic,2021
+App State,68,Automatic,2021
+Michigan,4,At-Large,2021
+Alabama,5,Automatic,2021
+Texas,11,Automatic,2021
+Florida St.,13,At-Large,2021
+Colorado,20,At-Large,2021
+BYU,23,At-Large,2021
+UConn,26,At-Large,2021
+LSU,29,At-Large,2021
+St. Bonaventure,39,Automatic,2021
+Maryland,36,At-Large,2021
+Michigan St.,43,At-Large,2021
+UCLA,44,At-Large,2021
+Georgetown,47,Automatic,2021
+UNC Greensboro,54,Automatic,2021
+Abilene Christian,55,Automatic,2021
+Iona,62,Automatic,2021
+Mount St. Mary's,65,Automatic,2021
+Texas Southern,66,Automatic,2021
+Baylor,2,At-Large,2021
+Ohio St.,6,At-Large,2021
+Arkansas,9,At-Large,2021
+Purdue,14,At-Large,2021
+Villanova,18,At-Large,2021
+Texas Tech,22,At-Large,2021
+Florida,28,At-Large,2021
+North Carolina,31,At-Large,2021
+Wisconsin,35,At-Large,2021
+Virginia Tech,37,At-Large,2021
+Utah St.,42,At-Large,2021
+Winthrop,49,Automatic,2021
+North Texas,52,Automatic,2021
+Colgate,57,Automatic,2021
+Oral Roberts,61,Automatic,2021
+Hartford,64,Automatic,2021
+Illinois,3,Automatic,2021
+Houston,8,Automatic,2021
+West Virginia,10,At-Large,2021
+Oklahoma St.,15,At-Large,2021
+Tennessee,19,At-Large,2021
+San Diego St.,24,Automatic,2021
+Clemson,27,At-Large,2021
+Loyola Chicago,30,Automatic,2021
+Georgia Tech,34,Automatic,2021
+Rutgers,40,At-Large,2021
+Syracuse,41,At-Large,2021
+Oregon St.,46,Automatic,2021
+Liberty,53,Automatic,2021
+Morehead St.,56,Automatic,2021
+Cleveland St.,60,Automatic,2021
+Drexel,63,Automatic,2021
+Gonzaga,1,Automatic,2022
+Duke,8,At-Large,2022
+Texas Tech,12,At-Large,2022
+Arkansas,16,At-Large,2022
+UConn,17,At-Large,2022
+Alabama,21,At-Large,2022
+Michigan St.,27,At-Large,2022
+Boise St.,29,Automatic,2022
+Memphis,36,At-Large,2022
+Davidson,40,At-Large,2022
+Rutgers,44,At-Large,2022
+Notre Dame,45,At-Large,2022
+New Mexico St.,50,Automatic,2022
+Vermont,53,Automatic,2022
+Montana St.,58,Automatic,2022
+Cal St. Fullerton,62,Automatic,2022
+Georgia St.,63,Automatic,2022
+Baylor,4,At-Large,2022
+Kentucky,6,At-Large,2022
+Purdue,11,At-Large,2022
+UCLA,13,At-Large,2022
+Saint Mary's (CA),19,At-Large,2022
+Texas,23,At-Large,2022
+Murray St.,26,Automatic,2022
+North Carolina,30,At-Large,2022
+Marquette,35,At-Large,2022
+San Francisco,37,At-Large,2022
+Virginia Tech,43,Automatic,2022
+Wyoming,46,At-Large,2022
+Indiana,47,At-Large,2022
+Akron,54,Automatic,2022
+Yale,56,Automatic,2022
+Saint Peter's,60,Automatic,2022
+Norfolk St.,64,Automatic,2022
+Arizona,2,Automatic,2022
+Villanova,7,Automatic,2022
+Tennessee,10,Automatic,2022
+Illinois,14,At-Large,2022
+Houston,18,Automatic,2022
+Colorado St.,24,At-Large,2022
+Ohio St.,28,At-Large,2022
+Seton Hall,32,At-Large,2022
+TCU,34,At-Large,2022
+Loyola Chicago,39,Automatic,2022
+Michigan,42,At-Large,2022
+UAB,48,Automatic,2022
+Chattanooga,51,Automatic,2022
+Longwood,55,Automatic,2022
+Delaware,59,Automatic,2022
+Wright St.,65,Automatic,2022
+Bryant,66,Automatic,2022
+Kansas,3,Automatic,2022
+Auburn,5,At-Large,2022
+Wisconsin,9,At-Large,2022
+Providence,15,At-Large,2022
+Iowa,20,Automatic,2022
+LSU,22,At-Large,2022
+Southern California,25,At-Large,2022
+San Diego St.,31,At-Large,2022
+Creighton,33,At-Large,2022
+Miami (FL),38,At-Large,2022
+Iowa St.,41,At-Large,2022
+Richmond,49,Automatic,2022
+South Dakota St.,52,Automatic,2022
+Colgate,57,Automatic,2022
+Jacksonville St.,61,Automatic,2022
+Texas Southern,67,Automatic,2022
+A&M-Corpus Christi,68,Automatic,2022
+Alabama,1,Automatic,2023
+Arizona,7,Automatic,2023
+Baylor,9,At large,2023
+Virginia,16,At large,2023
+San Diego St.,17,Automatic,2023
+Creighton,22,At large,2023
+Missouri,27,At large,2023
+Maryland,31,At large,2023
+West Virginia,34,At large,2023
+Utah St.,40,At large,2023
+NC State,41,At large,2023
+Col. of Charleston,47,Automatic,2023
+Furman,53,Automatic,2023
+UC Santa Barbara,56,Automatic,2023
+Princeton,61,Automatic,2023
+A&M-Corpus Christi,65,Automatic,2023
+Southeast Mo. St.,67,Automatic,2023
+Purdue,4,Automatic,2023
+Marquette,8,Automatic,2023
+Kansas St.,11,At large,2023
+Tennessee,14,At large,2023
+Duke,18,Automatic,2023
+Kentucky,23,At large,2023
+Michigan St.,26,At large,2023
+Memphis,29,Automatic,2023
+Fla. Atlantic,33,Automatic,2023
+Southern California,39,At large,2023
+Providence,42,At large,2023
+Oral Roberts,48,Automatic,2023
+Louisiana,54,Automatic,2023
+Montana St.,58,Automatic,2023
+Vermont,59,Automatic,2023
+Texas Southern,66,Automatic,2023
+FDU,68,Automatic,2023
+Houston,2,At large,2023
+Texas,6,Automatic,2023
+Xavier,12,At large,2023
+Indiana,15,At large,2023
+Miami (FL),20,At large,2023
+Iowa St.,21,At large,2023
+Texas A&M,25,At large,2023
+Iowa,32,At large,2023
+Auburn,35,At large,2023
+Penn St.,38,At large,2023
+Mississippi St.,43,At large,2023
+Pittsburgh,44,At large,2023
+Drake,49,Automatic,2023
+Kent St.,51,Automatic,2023
+Kennesaw St.,55,Automatic,2023
+Colgate,60,Automatic,2023
+Northern Ky.,63,Automatic,2023
+Kansas,3,At large,2023
+UCLA,5,At large,2023
+Gonzaga,10,Automatic,2023
+UConn,13,At large,2023
+Saint Mary's (CA),19,At large,2023
+TCU,24,At large,2023
+Northwestern,28,At large,2023
+Arkansas,30,At large,2023
+Illinois,36,At large,2023
+Boise St.,37,At large,2023
+Arizona St.,45,At large,2023
+Nevada,46,At large,2023
+VCU,50,Automatic,2023
+Iona,52,Automatic,2023
+Grand Canyon,57,Automatic,2023
+UNC Asheville,62,Automatic,2023
+Howard,64,Automatic,2023
+UConn,1,Automatic,2024
+Iowa St.,8,Automatic,2024
+Illinois,12,Automatic,2024
+Auburn,15,Automatic,2024
+San Diego St.,18,At Large,2024
+BYU,21,At Large,2024
+Washington St.,26,At Large,2024
+Fla. Atlantic,31,At Large,2024
+Northwestern,36,At Large,2024
+Drake,40,Automatic,2024
+Duquesne,46,Automatic,2024
+UAB,50,Automatic,2024
+Yale,52,Automatic,2024
+Morehead St.,57,Automatic,2024
+South Dakota St.,61,Automatic,2024
+Stetson,64,Automatic,2024
+North Carolina,4,At Large,2024
+Arizona,6,At Large,2024
+Baylor,9,At Large,2024
+Alabama,16,At Large,2024
+Saint Mary's (CA),20,Automatic,2024
+Clemson,22,At Large,2024
+Dayton,28,At Large,2024
+Mississippi St.,32,At Large,2024
+Michigan St.,33,At Large,2024
+Nevada,37,At Large,2024
+New Mexico,44,Automatic,2024
+Grand Canyon,47,Automatic,2024
+Col. of Charleston,54,Automatic,2024
+Colgate,58,Automatic,2024
+Long Beach St.,59,Automatic,2024
+Howard,67,Automatic,2024
+Wagner,68,Automatic,2024
+Houston,2,At Large,2024
+Marquette,7,At Large,2024
+Kentucky,11,At Large,2024
+Duke,13,At Large,2024
+Wisconsin,19,At Large,2024
+Texas Tech,23,At Large,2024
+Florida,25,At Large,2024
+Nebraska,29,At Large,2024
+Texas A&M,34,At Large,2024
+Boise St.,38,At Large,2024
+Colorado,39,At Large,2024
+NC State,45,Automatic,2024
+James Madison,48,Automatic,2024
+Vermont,51,Automatic,2024
+Oakland,55,Automatic,2024
+Western Ky.,60,Automatic,2024
+Longwood,63,Automatic,2024
+Purdue,3,At Large,2024
+Tennessee,5,At Large,2024
+Creighton,10,At Large,2024
+Kansas,14,At Large,2024
+Gonzaga,17,At Large,2024
+South Carolina,24,At Large,2024
+Texas,27,At Large,2024
+Utah St.,30,At Large,2024
+TCU,35,At Large,2024
+Virginia,41,At Large,2024
+Colorado St.,42,At Large,2024
+Oregon,43,Automatic,2024
+McNeese,49,Automatic,2024
+Samford,53,Automatic,2024
+Akron,56,Automatic,2024
+Saint Peter's,62,Automatic,2024
+Montana St.,65,Automatic,2024
+Grambling,66,Automatic,2024
+Duke,2,Automatic,2025
+Alabama,6,At Large,2025
+Wisconsin,12,At Large,2025
+Arizona,16,At Large,2025
+Oregon,19,At Large,2025
+BYU,21,At Large,2025
+Saint Mary's (CA),27,At Large,2025
+Mississippi St.,32,At Large,2025
+Baylor,35,At Large,2025
+Vanderbilt,39,At Large,2025
+VCU,45,Automatic,2025
+Liberty,50,Automatic,2025
+Akron,53,Automatic,2025
+Montana,58,Automatic,2025
+Robert Morris,59,Automatic,2025
+American,65,Automatic,2025
+Mount St. Mary's,66,Automatic,2025
+Florida,4,Automatic,2025
+St. John's (NY),8,Automatic,2025
+Texas Tech,9,At Large,2025
+Maryland,15,At Large,2025
+Memphis,20,Automatic,2025
+Missouri,23,At Large,2025
+Kansas,28,At Large,2025
+UConn,31,At Large,2025
+Oklahoma,36,At Large,2025
+Arkansas,37,At Large,2025
+Drake,44,Automatic,2025
+Colorado St.,48,Automatic,2025
+Grand Canyon,54,Automatic,2025
+UNCW,57,Automatic,2025
+Omaha,61,Automatic,2025
+Norfolk St.,63,Automatic,2025
+Auburn,1,At Large,2025
+Michigan St.,7,At Large,2025
+Iowa St.,10,At Large,2025
+Texas A&M,13,At Large,2025
+Michigan,17,Automatic,2025
+Ole Miss,24,At Large,2025
+Marquette,26,At Large,2025
+Louisville,29,At Large,2025
+Creighton,33,At Large,2025
+New Mexico,38,At Large,2025
+San Diego St.,43,At Large,2025
+North Carolina,46,At Large,2025
+UC San Diego,47,Automatic,2025
+Yale,51,Automatic,2025
+Lipscomb,55,Automatic,2025
+Bryant,62,Automatic,2025
+Alabama St.,67,Automatic,2025
+Saint Francis,68,Automatic,2025
+Houston,3,Automatic,2025
+Tennessee,5,At Large,2025
+Kentucky,11,At Large,2025
+Purdue,14,At Large,2025
+Clemson,18,At Large,2025
+Illinois,22,At Large,2025
+UCLA,25,At Large,2025
+Gonzaga,30,Automatic,2025
+Georgia,34,At Large,2025
+Utah St.,40,At Large,2025
+Texas,41,At Large,2025
+Xavier,42,At Large,2025
+McNeese,49,Automatic,2025
+High Point,52,Automatic,2025
+Troy,56,Automatic,2025
+Wofford,60,Automatic,2025
+SIUE,64,Automatic,2025
