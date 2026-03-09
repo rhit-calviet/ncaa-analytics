@@ -161,32 +161,28 @@ def clean_data(stats, rankings):
 # ---------------------------------------------------------------------------
 
 def engineer_features(df):
-    """
-    Parse W-L columns, compute derived features, encode conference.
-    Modifies df in place and returns it.
-    """
     wl_cols = ['WL', 'Quadrant1', 'Quadrant2', 'Quadrant3', 'Quadrant4']
-
     for col in wl_cols:
-        if col in df.columns:
-            parsed = df[col].apply(_parse_wl)
-            df[f'{col}_W'] = parsed.str[0]
-            df[f'{col}_L'] = parsed.str[1]
-        
+        w_col, l_col = f'{col}_W', f'{col}_L'
+        # Skip if already exists
+        if w_col in df.columns and l_col in df.columns:
+            continue
 
+        if col in df.columns:
+            parsed = df[col].apply(_parse_wl).apply(pd.Series)
+            parsed.columns = [w_col, l_col]
+            df = pd.concat([df, parsed], axis=1)
+
+    # ... rest remains the same
     df['Win_Pct'] = df['WL_W'] / (df['WL_W'] + df['WL_L'] + 1e-6)
-    df['Q1_Win_Pct'] = (
-        df['Quadrant1_W'] / (df['Quadrant1_W'] + df['Quadrant1_L'] + 1e-6)
-    )
+    df['Q1_Win_Pct'] = df['Quadrant1_W'] / (df['Quadrant1_W'] + df['Quadrant1_L'] + 1e-6)
     df['Quality_Wins'] = df['Quadrant1_W'] + df['Quadrant2_W']
     df['Bad_Losses'] = df['Quadrant3_L'] + df['Quadrant4_L']
 
     le = LabelEncoder()
     df['Conf_ID'] = le.fit_transform(df['Conference'].astype(str))
 
-    # Fill missing feature values with 0
     df[FEATS_STAGE2] = df[FEATS_STAGE2].fillna(0)
-
     return df
 
 
@@ -216,14 +212,27 @@ def predict_field(clf, test_data):
     to form the predicted field of 68.
     Returns DataFrame of 68 teams (predicted field).
     """
-    known_aqs = test_data[test_data['Is_AQ'] == 1]
+    # Known automatic qualifiers
+    known_aqs = test_data[test_data['Is_AQ'] == 1].copy()
     n_aqs = len(known_aqs)
     n_spots_remaining = 68 - n_aqs
 
+    # Predict at-large probabilities
     non_aq = test_data[test_data['Is_AQ'] == 0].copy()
     non_aq['Selection_Prob'] = clf.predict_proba(non_aq[FEATS_STAGE1])[:, 1]
 
+    # Pick top at-large teams
     predicted_at_larges = non_aq.nlargest(n_spots_remaining, 'Selection_Prob')
+
+    # --- Reset indexes and remove duplicate columns to prevent concat errors ---
+    known_aqs = known_aqs.reset_index(drop=True)
+    predicted_at_larges = predicted_at_larges.reset_index(drop=True)
+
+    # Ensure columns are unique by dropping duplicates if they exist
+    predicted_at_larges = predicted_at_larges.loc[:, ~predicted_at_larges.columns.duplicated()]
+    known_aqs = known_aqs.loc[:, ~known_aqs.columns.duplicated()]
+
+    # Concatenate safely
     predicted_field = pd.concat([known_aqs, predicted_at_larges], ignore_index=True)
 
     return predicted_field
