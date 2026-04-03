@@ -5,3 +5,4 @@ joblib
 streamlit
 plotly
 openpyxl
+xgboost
