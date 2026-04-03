@@ -1,0 +1,366 @@
+RecordID,Season,Team,Conference,Bid Type,NET Rank,PrevNET,AvgOppNETRank,AvgOppNET,WL,Conf.Record,Non-ConferenceRecord,RoadWL,NETSOS,NETNonConfSOS,Quadrant1,Quadrant2,Quadrant3,Quadrant4
+2025-26-California Baptist,2025-26,California Baptist,WAC,AQ,98,100,202,198,25-8,15-5,3-Oct,7-Jul,215,274,0-1,4-Feb,3-May,18-0
+2025-26-Duke,2025-26,Duke,ACC,AQ,1,1,9,84,32-2,20-1,1-Dec,1-Oct,9,9,17-2,Jun-00,Feb-00,Jul-00
+2025-26-Purdue,2025-26,Purdue,Big Ten,AQ,9,9,5,74,26-8,16-7,1-Oct,3-Aug,8,33,8-Oct,Jun-00,Jul-00,Mar-00
+2025-26-Queens (NC),2025-26,Queens (NC),ASUN,AQ,189,190,275,227,20-13,16-5,8-Apr,10-Jun,190,30,0-5,0-1,3-Feb,18-4
+2025-26-Howard,2025-26,Howard,MEAC,AQ,203,201,363,283,19-10,13-3,7-Jun,6-Jul,329,192,0-2,2-Jan,Jan-00,17-6
+2025-26-North Dakota St.,2025-26,North Dakota St.,Summit League,AQ,114,115,291,237,24-7,17-2,5-Jul,5-Oct,350,335,0-0,0-1,4-May,19-2
+2025-26-VCU,2025-26,VCU,Atlantic 10,AQ,43,44,102,148,26-7,17-3,4-Sep,3-Jul,99,92,5-Feb,2-Apr,Sep-00,Nov-00
+2025-26-Akron,2025-26,Akron,MAC,AQ,54,53,224,205,27-5,20-1,4-Jul,3-Sep,241,234,0-2,0-2,1-Nov,16-0
+2025-26-Tennessee St.,2025-26,Tennessee St.,OVC,AQ,172,173,332,254,20-9,17-5,4-Mar,7-Oct,322,77,0-2,Jan-00,1-Mar,16-6
+2025-26-Siena,2025-26,Siena,MAAC,AQ,183,182,345,260,23-11,16-7,4-Jul,7-Sep,359,338,0-1,0-0,6-Feb,21-4
+2025-26-High Point,2025-26,High Point,Big South,AQ,76,75,316,247,27-4,18-1,3-Sep,2-Jul,362,361,0-0,0-2,2-May,22-0
+2025-26-Prairie View,2025-26,Prairie View,SWAC,AQ,300,305,350,267,14-17,13-9,8-Jan,13-Mar,299,47,0-4,0-1,0-1,14-11
+2025-26-UNI,2025-26,UNI,MVC,AQ,72,71,109,154,22-12,15-9,3-Jul,6-Jun,135,193,0-2,6-Apr,4-Jul,Nov-00
+2025-26-Arizona,2025-26,Arizona,Big 12,AQ,3,3,13,85,32-2,19-2,13-0,1-Sep,10,40,16-2,Aug-00,Jan-00,Jul-00
+2025-26-Furman,2025-26,Furman,SoCon,AQ,186,186,266,223,19-12,13-8,4-Jun,5-Jul,333,287,0-1,0-2,5-May,14-4
+2025-26-Hawaii,2025-26,Hawaii,Big West,AQ,101,105,229,207,22-8,16-6,2-Jun,5-Jun,315,357,0-0,0-4,2-Aug,14-2
+2025-26-Utah St.,2025-26,Utah St.,Mountain West,AQ,26,27,71,113,27-6,18-5,1-Sep,5-Jul,87,185,4-Apr,1-Sep,1-Sep,May-00
+2025-26-St. John's (NY),2025-26,St. John's (NY),Big East,AQ,15,20,13,85,28-6,21-2,4-Jul,1-Sep,62,37,5-May,Nov-00,1-Sep,Mar-00
+2025-26-Kennesaw St.,2025-26,Kennesaw St.,CUSA,AQ,155,161,194,195,18-13,13-10,3-May,8-Apr,245,269,0-1,0-3,5-Jun,4-Dec
+2025-26-Hofstra,2025-26,Hofstra,CAA,AQ,88,88,179,189,22-10,15-6,4-Jul,8-Sep,230,209,0-1,2-Feb,4-Oct,3-Oct
+2025-26-LIU,2025-26,LIU,NEC,AQ,198,197,348,263,24-10,18-3,7-Jun,9-Oct,318,158,0-2,0-2,3-Jan,23-3
+2025-26-South Fla.,2025-26,South Fla.,American,AQ,45,49,106,149,23-8,16-3,5-Jul,3-Sep,107,85,3-Mar,3-Apr,2-Jul,Sep-00
+2025-26-Idaho,2025-26,Idaho,Big Sky,AQ,144,145,211,200,18-14,13-9,5-May,9-Jul,293,303,0-0,0-3,8-Sep,3-Sep
+2025-26-McNeese,2025-26,McNeese,Southland,AQ,56,56,219,202,26-5,21-3,2-May,5-Sep,201,28,0-2,2-Feb,Aug-00,16-1
+2025-26-Penn,2025-26,Penn,Ivy League,AQ,148,150,168,184,16-11,5-Oct,6-Jun,8-Apr,193,229,0-2,0-4,3-Jun,2-Oct
+2025-26-Gonzaga,2025-26,Gonzaga,WCC,AQ,6,6,92,135,30-3,18-2,1-Dec,2-Aug,85,31,2-Jul,Apr-00,1-Nov,Aug-00
+2025-26-Arkansas,2025-26,Arkansas,SEC,AQ,17,16,9,84,25-8,15-5,3-Oct,5-May,24,29,8-Jul,Aug-00,Apr-00,Jun-00
+2025-26-UMBC,2025-26,UMBC,America East,AQ,196,202,365,288,22-8,17-2,6-May,6-Sep,353,241,0-2,0-2,0-1,22-3
+2025-26-Wright St.,2025-26,Wright St.,Horizon,AQ,127,127,243,212,21-11,18-5,6-Mar,5-Sep,305,221,0-1,0-2,6-May,16-2
+2025-26-Troy,2025-26,Troy,Sun Belt,AQ,125,125,235,209,20-11,14-6,5-Jun,7-Sep,267,164,Jan-00,1-Feb,7-Apr,13-3
+2025-26-Lehigh,2025-26,Lehigh,Patriot,AQ,275,276,316,247,16-16,14-7,9-Feb,11-Apr,320,181,0-2,0-1,5-Jan,15-8
+2025-26-Coastal Carolina,2025-26,Coastal Carolina,Sun Belt,,229,228,263,222,18-13,8-Nov,5-Jul,7-Oct,323,309,0-1,1-Feb,4-Apr,7-Dec
+2025-26-Washington St.,2025-26,Washington St.,WCC,,145,146,92,135,20-Nov,12-Jul,8-Apr,11-Jan,97,155,0-4,0-10,4-Apr,2-Jul
+2025-26-Nicholls,2025-26,Nicholls,Southland,,250,251,202,198,13-19,13-11,0-8,12-Jul,170,45,0-3,5-Jan,5-Feb,6-Oct
+2025-26-FGCU,2025-26,FGCU,ASUN,,247,247,271,226,14-18,11-Oct,7-Apr,11-Mar,279,133,0-3,0-0,7-Feb,8-Dec
+2025-26-Eastern Mich.,2025-26,Eastern Mich.,MAC,,238,237,179,189,21-Sep,14-Apr,7-May,14-Mar,145,143,2-Jan,0-6,7-Jan,6-Jul
+2025-26-Florida,2025-26,Florida,SEC,,4,4,6,80,26-7,17-3,4-Sep,2-Aug,7,23,6-Dec,1-Jun,Mar-00,May-00
+2025-26-Tulsa,2025-26,Tulsa,American,,52,50,133,167,24-7,14-6,1-Oct,4-Aug,167,329,0-2,3-Apr,2-Aug,Dec-00
+2025-26-Louisville,2025-26,Louisville,ACC,,16,15,39,96,23-10,8-Dec,2-Nov,7-Apr,27,64,10-Aug,Apr-00,Apr-00,Jul-00
+2025-26-North Dakota,2025-26,North Dakota,Summit League,,271,271,227,206,15-17,7-Dec,10-Mar,8-Jul,200,153,0-2,3-Jan,5-Feb,7-Dec
+2025-26-UTRGV,2025-26,UTRGV,Southland,,126,126,222,203,17-14,15-9,5-Feb,8-Aug,172,36,0-4,2-Jan,2-Feb,14-6
+2025-26-UAlbany,2025-26,UAlbany,America East,,326,326,316,247,21-Aug,10-Jul,11-Jan,13-Apr,331,217,0-0,0-4,8-Jan,9-Jul
+2025-26-Baylor,2025-26,Baylor,Big 12,,50,51,20,90,15-16,13-Jun,3-Sep,7-Mar,16,117,12-Apr,4-Mar,Mar-00,May-00
+2025-26-Montana,2025-26,Montana,Big Sky,,194,194,151,177,15-15,9-Dec,6-Mar,9-May,181,70,0-3,1-Jan,7-Jul,4-Jul
+2025-26-Eastern Wash.,2025-26,Eastern Wash.,Big Sky,,204,204,149,176,13-19,8-Dec,11-Jan,13-May,156,74,0-2,3-Jan,12-Apr,2-Aug
+2025-26-Colorado St.,2025-26,Colorado St.,Mountain West,,87,87,94,138,20-12,10-Dec,2-Aug,5-Jun,92,261,5-Mar,5-Mar,1-May,1-Sep
+2025-26-UT Martin,2025-26,UT Martin,OVC,,205,207,332,254,19-11,14-8,3-May,6-Aug,348,227,0-1,1-Feb,0-3,17-6
+2025-26-Xavier,2025-26,Xavier,Big East,,97,97,29,93,15-18,15-Jul,3-Aug,10-Jan,63,113,0-9,8-Apr,1-May,Jun-00
+2025-26-Omaha,2025-26,Omaha,Summit League,,258,258,230,208,17-Dec,9-Sep,8-Mar,10-May,263,228,0-0,0-5,6-Feb,6-Oct
+2025-26-Sacred Heart,2025-26,Sacred Heart,MAAC,,293,294,313,246,13-19,12-Oct,7-Mar,13-May,340,275,0-1,0-1,7-Feb,10-Nov
+2025-26-Coppin St.,2025-26,Coppin St.,MEAC,,363,363,312,245,24-Jun,9-May,15-Jan,15-Apr,249,165,0-3,0-3,0-5,13-Jun
+2025-26-UAB,2025-26,UAB,American,,118,118,145,174,19-12,8-Nov,4-Aug,2-Oct,160,312,1-Feb,3-Jan,6-Jul,2-Sep
+2025-26-New Mexico,2025-26,New Mexico,Mountain West,,46,46,94,138,22-10,14-8,2-Aug,5-Jul,86,147,7-Feb,1-Jun,2-Apr,Oct-00
+2025-26-UC Irvine,2025-26,UC Irvine,Big West,,117,112,168,184,21-11,16-6,5-May,5-Jul,258,280,0-0,4-Jan,7-Jun,14-0
+2025-26-Saint Mary's (CA),2025-26,Saint Mary's (CA),WCC,,22,22,90,130,26-5,16-3,2-Oct,2-Aug,93,123,4-Jan,1-Aug,Oct-00,Jul-00
+2025-26-Northeastern,2025-26,Northeastern,CAA,,286,285,181,191,24-Jul,17-Mar,7-Apr,13-Mar,247,288,0-1,0-3,10-Mar,10-Apr
+2025-26-Tulane,2025-26,Tulane,American,,207,208,121,161,17-15,11-Sep,4-Aug,4-Jun,169,316,0-2,5-Feb,7-May,1-Oct
+2025-26-Iowa St.,2025-26,Iowa St.,Big 12,,7,7,54,104,27-7,14-7,13-0,5-May,28,135,7-Aug,Oct-00,Feb-00,Jul-00
+2025-26-Rider,2025-26,Rider,MAAC,,357,357,260,221,25-Mar,17-Mar,0-8,0-16,177,14,0-4,0-1,0-7,13-Mar
+2025-26-Elon,2025-26,Elon,CAA,,223,223,181,191,18-Dec,13-Jun,5-Jun,9-Jun,213,252,0-2,1-Feb,7-Feb,8-Aug
+2025-26-Cal St. Fullerton,2025-26,Cal St. Fullerton,Big West,,177,177,142,173,16-16,13-9,7-Mar,10-Jun,171,100,0-3,3-Jan,8-Jun,2-Sep
+2025-26-NIU,2025-26,NIU,MAC,,335,335,187,193,21-Jul,14-Apr,7-Mar,14-Mar,157,128,0-5,0-2,8-Jan,6-Jun
+2025-26-Colorado,2025-26,Colorado,Big 12,,77,76,29,93,17-15,12-Jul,3-Oct,8-Feb,69,267,10-Jan,4-May,1-Jul,Apr-00
+2025-26-San Jose St.,2025-26,San Jose St.,Mountain West,,244,243,79,120,24-Aug,18-Apr,6-Apr,12-Jan,83,163,0-7,10-Feb,0-7,Jun-00
+2025-26-Penn St.,2025-26,Penn St.,Big Ten,,141,139,66,109,20-Dec,18-Mar,2-Sep,9-Feb,59,358,11-Feb,0-5,4-Mar,Jul-00
+2025-26-CSU Bakersfield,2025-26,CSU Bakersfield,Big West,,330,330,153,178,24-Jun,18-Feb,6-Apr,13-Feb,196,184,0-2,0-4,10-Mar,8-Mar
+2025-26-Maryland,2025-26,Maryland,Big Ten,,138,138,25,92,21-Dec,17-May,4-Jul,10-Feb,11,66,15-Jan,3-Mar,3-Mar,May-00
+2025-26-Miami (OH),2025-26,Miami (OH),MAC,,64,64,278,228,28-1,18-1,Oct-00,14-0,339,363,0-0,Mar-00,Oct-00,15-1
+2025-26-Winthrop,2025-26,Winthrop,Big South,,131,130,255,217,20-11,15-4,7-May,9-Jul,175,86,0-3,0-3,1-Apr,16-4
+2025-26-Vanderbilt,2025-26,Vanderbilt,SEC,,13,14,23,91,26-7,13-7,13-0,4-Aug,23,114,6-Oct,1-Jul,Mar-00,Jun-00
+2025-26-Holy Cross,2025-26,Holy Cross,Patriot,,331,331,322,249,22-Sep,14-Jun,8-Mar,14-Apr,330,230,0-1,0-2,4-Jan,15-Aug
+2025-26-Rutgers,2025-26,Rutgers,Big Ten,,135,133,64,108,14-19,15-Jul,4-Jul,9-Feb,46,254,0-13,5-Feb,Jul-00,1-May
+2025-26-Lipscomb,2025-26,Lipscomb,ASUN,,193,193,280,230,17-13,7-Dec,6-May,11-Jun,207,52,0-4,0-0,4-Feb,15-5
+2025-26-California,2025-26,California,ACC,,68,68,78,119,20-11,10-Sep,1-Nov,6-Apr,78,327,6-Apr,4-Feb,1-Jun,Aug-00
+2025-26-Kentucky,2025-26,Kentucky,SEC,,28,28,18,88,21-13,9-Dec,4-Sep,6-Apr,5,34,11-May,2-Jul,Mar-00,Jun-00
+2025-26-Duquesne,2025-26,Duquesne,Atlantic 10,,133,132,107,152,16-15,10-Oct,5-Jun,7-May,105,247,0-7,3-Feb,4-May,1-Sep
+2025-26-BYU,2025-26,BYU,Big 12,,23,23,9,84,23-11,10-Nov,1-Dec,6-Mar,13,48,10-Jul,1-Aug,Mar-00,May-00
+2025-26-Marshall,2025-26,Marshall,Sun Belt,,171,172,224,205,18-13,8-Nov,5-Jul,8-Jun,281,232,0-1,3-Jan,4-Jun,5-Nov
+2025-26-Tennessee,2025-26,Tennessee,SEC,,20,19,19,89,22-11,8-Dec,3-Oct,5-May,12,65,10-Jun,1-Jun,Mar-00,Jul-00
+2025-26-IU Indy,2025-26,IU Indy,Horizon,,319,319,243,212,25-May,18-Mar,7-Feb,15-Feb,266,178,0-2,0-2,6-Mar,15-Feb
+2025-26-ULM,2025-26,ULM,Sun Belt,,355,355,241,211,28-Feb,18-Jan,10-Jan,15-Jan,242,195,0-1,0-4,0-9,14-Feb
+2025-26-Providence,2025-26,Providence,Big East,,81,80,47,101,15-18,14-Aug,4-Jul,8-Mar,70,112,8-Jan,8-Mar,2-Jul,Apr-00
+2025-26-Memphis,2025-26,Memphis,American,,134,135,89,129,13-19,11-Aug,8-May,10-Mar,88,20,0-7,6-Feb,3-May,3-Jun
+2025-26-Southern Ill.,2025-26,Southern Ill.,MVC,,120,121,114,158,15-16,11-Oct,5-May,8-Jul,122,219,1-Feb,6-Mar,8-Mar,1-Jul
+2025-26-Col. of Charleston,2025-26,Col. of Charleston,CAA,,162,163,177,188,20-11,14-5,6-Jun,4-Aug,219,245,0-1,3-Feb,6-Apr,14-1
+2025-26-Liberty,2025-26,Liberty,CUSA,,106,106,172,186,22-7,17-4,3-May,2-Oct,236,170,1-Jan,Jan-00,4-Sep,2-Nov
+2025-26-Bradley,2025-26,Bradley,MVC,,113,113,115,160,20-12,14-8,4-Jun,7-Apr,162,347,0-2,5-Mar,4-Sep,1-Aug
+2025-26-Oakland,2025-26,Oakland,Horizon,,175,175,166,183,15-16,9-Dec,7-Mar,9-Aug,112,1,0-6,0-1,3-Jul,6-Aug
+2025-26-Central Conn. St.,2025-26,Central Conn. St.,NEC,,289,289,361,276,16-12,7-Dec,5-Apr,8-Aug,361,304,0-1,Jan-00,3-Jan,14-8
+2025-26-Syracuse,2025-26,Syracuse,ACC,,86,86,57,106,15-17,13-Jun,4-Sep,7-Feb,52,89,11-Jan,3-Apr,3-Mar,Jul-00
+2025-26-UC Riverside,2025-26,UC Riverside,Big West,,273,273,148,175,22-Aug,15-May,7-Mar,15-Mar,138,54,0-3,0-5,9-Feb,5-Jun
+2025-26-Florida St.,2025-26,Florida St.,ACC,,62,62,68,110,18-15,9-Nov,6-Jul,5-Jun,37,98,9-Mar,5-Jun,Feb-00,1-Jul
+2025-26-Southern California,2025-26,Southern California,Big Ten,,79,78,25,92,17-14,14-Jul,Oct-00,6-May,38,251,9-Jan,4-Jul,1-Jun,Mar-00
+2025-26-UMES,2025-26,UMES,MEAC,,351,351,338,256,23-Jul,10-May,13-Feb,18-Feb,182,61,0-5,0-1,0-2,15-Jul
+2025-26-Washington,2025-26,Washington,Big Ten,,57,57,42,97,16-17,14-Aug,3-Aug,9-Apr,48,246,11-Feb,4-Apr,2-May,May-00
+2025-26-Fordham,2025-26,Fordham,Atlantic 10,,174,174,172,186,14-15,11-Aug,4-Jun,6-Apr,165,365,0-3,3-Feb,4-Apr,5-Aug
+2025-26-LMU (CA),2025-26,LMU (CA),WCC,,179,179,131,166,14-17,13-Jun,4-Aug,7-Apr,128,337,0-4,3-Jan,5-Jun,5-Jul
+2025-26-Saint Louis,2025-26,Saint Louis,Atlantic 10,,30,29,123,162,27-5,16-4,1-Nov,3-Jul,134,317,1-Feb,3-Jun,1-Jun,13-0
+2025-26-Chattanooga,2025-26,Chattanooga,SoCon,,288,288,290,236,19-Oct,12-Jul,7-Mar,9-Jun,297,212,0-2,0-1,4-Feb,12-Aug
+2025-26-Illinois St.,2025-26,Illinois St.,MVC,,95,94,115,160,19-12,9-Dec,3-Jul,7-May,141,299,2-Jan,4-Apr,5-Jul,1-Jul
+2025-26-New Orleans,2025-26,New Orleans,Southland,,215,215,187,193,15-18,13-11,7-Feb,11-Sep,124,12,3-Jan,4-Feb,5-Jan,6-Nov
+2025-26-Northwestern,2025-26,Northwestern,Big Ten,,66,65,29,93,15-19,16-Jul,3-Aug,8-Mar,25,211,13-Feb,5-Feb,1-Jun,May-00
+2025-26-Temple,2025-26,Temple,American,,167,167,161,182,15-16,11-Aug,5-Jul,6-May,192,296,0-3,2-Feb,9-Feb,2-Nov
+2025-26-Manhattan,2025-26,Manhattan,MAAC,,329,329,303,241,20-Nov,13-Aug,7-Mar,12-Mar,332,248,0-1,0-2,7-Jan,10-Oct
+2025-26-UConn,2025-26,UConn,Big East,,10,10,39,96,29-5,19-4,1-Oct,2-Sep,51,11,3-Jul,1-Nov,1-Jun,May-00
+2025-26-Davidson,2025-26,Davidson,Atlantic 10,,115,116,109,154,18-13,9-Nov,4-Jul,4-Jul,111,125,0-5,2-Mar,5-Jun,1-Sep
+2025-26-UCF,2025-26,UCF,Big 12,,51,52,29,93,21-11,10-Oct,1-Nov,5-May,41,238,8-May,3-Jun,Apr-00,Jun-00
+2025-26-Merrimack,2025-26,Merrimack,MAAC,,180,180,286,232,23-11,19-4,7-Apr,8-Sep,291,150,0-2,0-1,6-Apr,19-2
+2025-26-Bellarmine,2025-26,Bellarmine,ASUN,,285,286,263,222,19-Nov,12-Aug,7-Mar,13-Feb,240,101,0-2,0-3,0-5,9-Nov
+2025-26-Stetson,2025-26,Stetson,ASUN,,314,314,257,218,21-Oct,12-Aug,9-Feb,14-Feb,244,111,0-3,0-1,0-8,9-Oct
+2025-26-Michigan,2025-26,Michigan,Big Ten,,2,2,1,64,31-2,21-1,1-Oct,Nov-00,2,6,16-2,Jun-00,Jun-00,Mar-00
+2025-26-Murray St.,2025-26,Murray St.,MVC,,105,104,121,161,20-12,9-Dec,3-Aug,6-May,120,226,0-3,5-Apr,4-Jun,Oct-00
+2025-26-Virginia,2025-26,Virginia,ACC,,12,12,57,106,29-5,17-4,1-Dec,2-Aug,67,203,4-Aug,1-Sep,May-00,Jul-00
+2025-26-UMass Lowell,2025-26,UMass Lowell,America East,,321,321,342,258,18-Dec,8-Oct,10-Feb,14-May,276,115,0-3,0-1,0-7,7-Dec
+2025-26-Lindenwood,2025-26,Lindenwood,OVC,,262,262,332,254,15-15,10-Dec,5-Mar,9-Jul,289,59,0-3,0-0,3-Jan,14-9
+2025-26-Mississippi Val.,2025-26,Mississippi Val.,SWAC,,365,365,330,252,Feb-30,17-Feb,0-13,18-Jan,255,81,0-4,0-4,0-1,21-Feb
+2025-26-Cornell,2025-26,Cornell,Ivy League,,149,144,192,194,13-13,7-Aug,6-May,8-Aug,159,197,0-2,3-Jan,6-Feb,2-Oct
+2025-26-A&M-Corpus Christi,2025-26,A&M-Corpus Christi,Southland,,191,191,197,196,14-15,14-10,0-5,9-Jul,144,2,0-4,4-Jan,0-4,13-3
+2025-26-Wagner,2025-26,Wagner,NEC,,302,301,346,262,17-Nov,11-Sep,6-Feb,12-Jun,316,99,0-2,0-1,0-5,9-Nov
+2025-26-Mercyhurst,2025-26,Mercyhurst,NEC,,277,278,351,269,15-17,9-Dec,8-Mar,14-May,321,157,0-3,0-2,0-3,15-9
+2025-26-UNLV,2025-26,UNLV,Mountain West,,111,111,81,124,16-16,10-Dec,6-Apr,6-Jun,84,182,5-Apr,4-May,4-Feb,3-May
+2025-26-Colgate,2025-26,Colgate,Patriot,,226,227,297,239,16-15,8-Dec,7-Apr,10-Jun,224,49,0-3,0-0,5-Feb,14-7
+2025-26-Texas Tech,2025-26,Texas Tech,Big 12,,19,18,4,71,22-10,7-Dec,3-Oct,5-May,6,24,9-Jul,1-May,Jul-00,Mar-00
+2025-26-UTEP,2025-26,UTEP,CUSA,,268,268,142,173,20-Aug,13-Jul,7-Jan,11-Feb,203,139,0-1,0-4,10-Mar,5-May
+2025-26-Oregon St.,2025-26,Oregon St.,WCC,,170,171,98,142,17-16,10-Oct,6-Jul,7-Apr,106,318,4-Jan,4-Jan,5-Oct,3-May
+2025-26-NC State,2025-26,NC State,ACC,,36,36,20,90,20-13,9-Nov,4-Sep,4-Jun,35,79,8-May,4-Jun,May-00,1-Apr
+2025-26-Iowa,2025-26,Iowa,Big Ten,,27,26,64,108,21-12,11-Nov,1-Oct,8-Mar,40,256,9-Apr,1-May,2-Jun,Jun-00
+2025-26-Green Bay,2025-26,Green Bay,Horizon,,217,218,201,197,16-15,13-9,6-Mar,9-Jun,232,93,0-1,0-4,7-Apr,3-Dec
+2025-26-Alabama,2025-26,Alabama,SEC,,18,17,3,68,23-9,13-6,3-Oct,3-Jul,4,3,7-Jul,2-Sep,May-00,Feb-00
+2025-26-Texas St.,2025-26,Texas St.,Sun Belt,,235,235,286,232,17-13,8-Nov,5-Jun,9-Mar,354,364,0-0,0-1,8-Mar,14-4
+2025-26-LSU,2025-26,LSU,SEC,,78,77,61,107,15-17,16-Mar,1-Dec,7-Mar,56,292,12-Jan,3-Mar,2-Mar,Aug-00
+2025-26-CSUN,2025-26,CSUN,Big West,,188,187,161,182,18-14,13-9,5-May,8-Jul,222,243,0-2,3-Jan,5-Aug,4-Sep
+2025-26-Hampton,2025-26,Hampton,CAA,,270,270,243,212,19-Nov,12-Jul,7-Apr,12-Feb,261,328,0-1,0-3,8-Feb,7-Sep
+2025-26-North Texas,2025-26,North Texas,American,,137,136,136,168,17-14,10-Oct,4-Jul,7-May,118,180,0-4,4-Feb,3-Jun,3-Sep
+2025-26-Sam Houston,2025-26,Sam Houston,CUSA,,107,107,157,180,19-11,14-8,3-May,9-Jun,206,105,0-2,0-2,6-Oct,1-Sep
+2025-26-UC Davis,2025-26,UC Davis,Big West,,178,178,168,184,17-14,10-Dec,4-May,9-Jun,231,224,Jan-00,0-5,8-Jun,1-Oct
+2025-26-N.C. Central,2025-26,N.C. Central,MEAC,,342,344,331,253,18-Oct,7-Oct,0-11,12-Apr,183,22,0-5,0-0,0-4,9-Oct
+2025-26-Air Force,2025-26,Air Force,Mountain West,,350,350,85,128,29-Mar,0-21,8-Mar,0-12,98,321,0-7,0-9,0-8,5-Mar
+2025-26-Morgan St.,2025-26,Morgan St.,MEAC,,352,352,356,272,16-Nov,5-Oct,11-Jan,9-May,349,290,0-1,0-3,1-Jan,11-Oct
+2025-26-Cincinnati,2025-26,Cincinnati,Big 12,,49,48,52,103,18-15,10-Oct,5-Aug,8-Feb,47,175,11-Mar,3-May,Mar-00,1-Jul
+2025-26-Quinnipiac,2025-26,Quinnipiac,MAAC,,211,213,291,237,18-13,9-Dec,4-Jun,7-Sep,273,102,0-2,2-Jan,3-Apr,13-6
+2025-26-Little Rock,2025-26,Little Rock,OVC,,309,309,300,240,20-Oct,12-Sep,8-Jan,13-May,327,174,0-1,0-3,0-6,10-Oct
+2025-26-Wisconsin,2025-26,Wisconsin,Big Ten,,25,25,20,90,24-10,16-7,3-Aug,4-Jun,17,162,8-Aug,1-May,1-May,Jun-00
+2025-26-Long Beach St.,2025-26,Long Beach St.,Big West,,257,257,145,174,22-Aug,14-Jun,8-Feb,13-Mar,173,121,0-2,3-Jan,12-Jan,5-Jun
+2025-26-Minnesota,2025-26,Minnesota,Big Ten,,80,79,70,112,15-17,13-Aug,4-Jul,9-Feb,53,277,11-Mar,1-Apr,5-Jan,Jul-00
+2025-26-Samford,2025-26,Samford,SoCon,,218,217,275,227,16-14,8-Nov,6-May,9-Jun,282,172,0-2,0-1,6-Apr,5-Dec
+2025-26-Houston Christian,2025-26,Houston Christian,Southland,,294,293,249,214,20-Oct,15-Aug,5-Feb,13-Mar,226,171,0-2,0-4,5-Jan,9-Sep
+2025-26-Eastern Ill.,2025-26,Eastern Ill.,OVC,,320,320,280,230,20-Oct,13-Sep,7-Jan,13-Mar,212,13,0-3,0-1,0-5,11-Oct
+2025-26-New Hampshire,2025-26,New Hampshire,America East,,348,348,313,246,21-Jul,12-May,9-Feb,16-Jan,208,50,0-3,0-2,0-5,11-Jul
+2025-26-Grand Canyon,2025-26,Grand Canyon,Mountain West,,71,69,102,148,20-12,13-8,4-Jul,5-Jun,90,233,5-Mar,4-Mar,2-Apr,1-Oct
+2025-26-Oregon,2025-26,Oregon,Big Ten,,109,109,15,86,20-Dec,16-May,4-Jul,8-Feb,30,130,14-Jan,3-Feb,3-Mar,Jun-00
+2025-26-Texas Southern,2025-26,Texas Southern,SWAC,,322,322,328,251,18-Oct,9-Oct,0-9,12-Mar,199,10,0-4,0-1,0-2,11-Oct
+2025-26-N.C. A&T,2025-26,N.C. A&T,CAA,,276,277,237,210,19-Sep,15-Apr,4-May,11-Apr,292,346,0-0,0-4,8-Mar,7-Jun
+2025-26-Northwestern St.,2025-26,Northwestern St.,Southland,,301,300,211,200,22-Aug,15-Aug,0-7,15-Feb,187,62,0-4,0-4,4-Jan,10-Jul
+2025-26-Seton Hall,2025-26,Seton Hall,Big East,,53,54,61,107,21-12,11-Nov,1-Oct,5-Jun,75,301,6-Jan,4-Jul,2-Jul,Jun-00
+2025-26-Indiana St.,2025-26,Indiana St.,MVC,,213,211,127,164,21-Sep,17-Apr,4-May,12-Mar,121,276,0-3,6-Jan,9-Feb,3-Jun
+2025-26-San Diego,2025-26,San Diego,WCC,,234,234,115,160,21-Oct,14-Jun,7-Apr,11-Feb,113,310,0-4,5-Jan,6-Apr,6-May
+2025-26-La Salle,2025-26,La Salle,Atlantic 10,,246,245,91,132,23-Aug,14-May,9-Mar,13-Jan,100,108,0-3,8-Jan,11-Mar,1-Apr
+2025-26-Southeast Mo. St.,2025-26,Southeast Mo. St.,OVC,,224,225,313,246,17-13,15-7,6-Feb,7-Aug,296,67,0-3,0-0,1-Feb,15-9
+2025-26-Texas A&M,2025-26,Texas A&M,SEC,,44,43,74,114,21-11,8-Nov,3-Oct,5-Jun,61,259,8-May,3-Apr,Apr-00,Aug-00
+2025-26-Purdue Fort Wayne,2025-26,Purdue Fort Wayne,Horizon,,254,253,211,200,14-15,10-Nov,5-Mar,11-Jun,195,39,0-3,2-Jan,5-Apr,5-Sep
+2025-26-Detroit Mercy,2025-26,Detroit Mercy,Horizon,,221,221,207,199,15-15,14-9,6-Jan,9-Jul,233,63,0-1,4-Jan,6-Mar,4-Nov
+2025-26-New Mexico St.,2025-26,New Mexico St.,CUSA,,190,189,168,184,13-16,13-Sep,3-Apr,8-Mar,256,250,0-0,2-Jan,8-Jun,6-Jun
+2025-26-Saint Francis,2025-26,Saint Francis,NEC,,353,353,291,237,24-May,13-May,0-11,14-Feb,227,53,0-3,0-2,0-4,15-May
+2025-26-Delaware,2025-26,Delaware,CUSA,,287,287,192,194,20-Oct,14-Jun,6-Apr,10-Apr,239,297,0-1,2-Jan,7-May,10-Apr
+2025-26-Richmond,2025-26,Richmond,Atlantic 10,,165,165,139,169,14-17,14-May,3-Sep,8-Mar,146,351,2-Jan,0-5,7-Jul,3-Jun
+2025-26-Missouri St.,2025-26,Missouri St.,CUSA,,206,206,166,183,13-18,13-Oct,5-Mar,10-Mar,243,258,0-1,0-3,9-May,5-Aug
+2025-26-App State,2025-26,App State,Sun Belt,,192,192,269,225,17-13,8-Nov,5-Jun,8-Jul,311,300,0-1,Feb-00,6-Feb,13-6
+2025-26-George Mason,2025-26,George Mason,Atlantic 10,,92,92,115,160,22-9,8-Nov,1-Nov,6-Apr,153,348,2-Jan,3-Jan,4-Nov,Sep-00
+2025-26-ETSU,2025-26,ETSU,SoCon,,139,140,300,240,21-11,15-6,5-Jun,6-Aug,334,273,0-2,0-0,4-Feb,19-5
+2025-26-Fairfield,2025-26,Fairfield,MAAC,,240,240,341,257,20-13,13-10,3-Jul,8-Jul,358,341,0-1,0-0,6-Feb,18-6
+2025-26-Old Dominion,2025-26,Old Dominion,Sun Belt,,255,255,224,205,21-Nov,12-Aug,9-Mar,14-Apr,214,104,0-2,0-4,9-Mar,6-Aug
+2025-26-Drake,2025-26,Drake,MVC,,199,198,102,148,20-Dec,15-Aug,5-Apr,7-Apr,137,334,0-2,7-Feb,10-May,1-May
+2025-26-North Carolina,2025-26,North Carolina,ACC,,24,24,29,93,24-8,7-Dec,1-Dec,6-Apr,36,96,8-Jun,May-00,Aug-00,May-00
+2025-26-Houston,2025-26,Houston,Big 12,,5,5,16,87,28-6,16-5,1-Dec,3-Jun,21,116,6-Oct,Sep-00,Mar-00,Jun-00
+2025-26-Western Caro.,2025-26,Western Caro.,SoCon,,228,229,237,210,13-16,9-Nov,7-Feb,12-Apr,164,18,0-4,0-1,4-Apr,7-Sep
+2025-26-Ohio,2025-26,Ohio,MAC,,231,231,161,182,13-17,10-Sep,7-Apr,8-Apr,166,145,0-3,0-4,7-Apr,3-Sep
+2025-26-Rice,2025-26,Rice,American,,243,244,149,176,18-Nov,11-Jul,7-Apr,9-Apr,155,281,2-Jan,0-4,6-Apr,6-Jun
+2025-26-South Alabama,2025-26,South Alabama,Sun Belt,,187,188,275,227,19-11,8-Nov,3-Aug,6-Aug,341,344,0-0,2-Jan,5-Jul,4-Nov
+2025-26-UC San Diego,2025-26,UC San Diego,Big West,,124,124,181,191,21-11,13-9,2-Aug,5-Aug,283,302,0-1,1-Jan,6-Sep,3-Nov
+2025-26-Bucknell,2025-26,Bucknell,Patriot,,333,333,280,230,23-Oct,13-Jul,10-Mar,12-Apr,262,136,0-3,0-1,0-8,11-Oct
+2025-26-UNC Asheville,2025-26,UNC Asheville,Big South,,239,239,216,201,17-Dec,9-Sep,8-Mar,9-Apr,217,191,0-2,0-5,0-5,5-Dec
+2025-26-Pacific,2025-26,Pacific,WCC,,116,117,125,163,16-15,11-Sep,4-Jul,11-Apr,103,177,0-7,0-3,5-Apr,Dec-00
+2025-26-Wyoming,2025-26,Wyoming,Mountain West,,99,98,100,145,17-14,12-Sep,2-Aug,9-Mar,96,305,7-Jan,5-Jan,2-Mar,Dec-00
+2025-26-Vermont,2025-26,Vermont,America East,,227,224,355,271,20-12,14-5,7-Jun,7-Aug,365,342,0-0,0-1,0-6,20-5
+2025-26-Bethune-Cookman,2025-26,Bethune-Cookman,SWAC,,261,261,305,242,16-15,14-5,10-Feb,11-Jul,140,4,0-8,0-0,Jan-00,15-7
+2025-26-Santa Clara,2025-26,Santa Clara,WCC,,40,40,84,127,25-8,17-4,4-Aug,3-Aug,82,106,6-Feb,1-Jun,Oct-00,1-Jul
+2025-26-Georgia Tech,2025-26,Georgia Tech,ACC,,169,169,85,128,20-Nov,16-Feb,4-Sep,9-Jan,77,340,10-Jan,0-5,5-Jan,Sep-00
+2025-26-Le Moyne,2025-26,Le Moyne,NEC,,290,290,353,270,14-17,9-Oct,8-Apr,12-May,351,282,0-1,0-1,5-Jan,13-10
+2025-26-Charleston So.,2025-26,Charleston So.,Big South,,242,242,289,235,17-Dec,11-Jun,6-Jun,11-May,300,326,0-1,0-3,4-Mar,9-Sep
+2025-26-Central Mich.,2025-26,Central Mich.,MAC,,280,279,197,196,21-Aug,12-Jun,9-Feb,15-Jan,152,148,0-4,0-3,6-Mar,8-May
+2025-26-Southeastern La.,2025-26,Southeastern La.,Southland,,295,295,219,202,22-Aug,16-Jun,6-Feb,15-Feb,205,144,0-1,0-7,4-Feb,10-Jun
+2025-26-Norfolk St.,2025-26,Norfolk St.,MEAC,,318,318,351,269,17-Nov,7-Aug,10-Mar,10-May,304,188,0-2,0-1,0-5,9-Nov
+2025-26-Oral Roberts,2025-26,Oral Roberts,Summit League,,311,311,186,192,23-Jul,13-May,10-Feb,13-Jan,194,118,0-3,0-4,6-Feb,10-May
+2025-26-West Ga.,2025-26,West Ga.,ASUN,,298,298,291,237,13-17,11-Sep,6-Apr,11-Apr,248,78,0-3,Jan-00,0-4,10-Dec
+2025-26-UIW,2025-26,UIW,Southland,,282,282,219,202,19-Sep,15-Jul,4-Feb,12-Feb,168,27,0-3,4-Jan,3-Jan,9-Jul
+2025-26-Buffalo,2025-26,Buffalo,MAC,,195,195,230,208,15-15,12-Jul,3-Aug,6-Aug,237,359,0-2,4-Jan,4-Mar,5-Nov
+2025-26-UT Arlington,2025-26,UT Arlington,WAC,,161,160,157,180,16-14,10-Oct,4-Jun,8-Aug,174,183,0-2,4-Jan,5-May,3-Oct
+2025-26-Youngstown St.,2025-26,Youngstown St.,Horizon,,219,219,247,213,17-Dec,13-Aug,4-Apr,11-Apr,295,268,Jan-00,0-3,7-Feb,7-Sep
+2025-26-East Carolina,2025-26,East Carolina,American,,267,267,140,171,20-Oct,12-Jun,8-Apr,8-Apr,127,187,0-4,4-Jan,5-Feb,7-Jul
+2025-26-Portland,2025-26,Portland,WCC,,222,222,99,144,13-19,13-Aug,6-May,12-Jan,102,263,4-Jan,0-6,7-May,2-Jul
+2025-26-East Texas A&M,2025-26,East Texas A&M,Southland,,304,303,207,199,21-Sep,16-Jun,5-Mar,13-Apr,151,42,0-4,0-4,3-Jan,10-Aug
+2025-26-South Dakota,2025-26,South Dakota,Summit League,,284,284,263,222,13-16,9-Aug,7-May,10-Mar,284,264,0-1,0-5,4-Jan,6-Dec
+2025-26-Presbyterian,2025-26,Presbyterian,Big South,,260,260,260,221,18-Dec,10-Aug,8-Apr,13-Mar,265,265,0-2,0-3,4-Feb,9-Oct
+2025-26-Loyola Maryland,2025-26,Loyola Maryland,Patriot,,328,328,344,259,20-Oct,11-Aug,9-Feb,13-Mar,343,298,0-1,0-2,0-6,11-Oct
+2025-26-Massachusetts,2025-26,Massachusetts,MAC,,201,200,202,198,16-16,12-Aug,4-Aug,8-Feb,257,352,0-2,1-Feb,8-May,5-Sep
+2025-26-Stonehill,2025-26,Stonehill,NEC,,332,332,359,273,21-Oct,11-Sep,10-Jan,15-Apr,342,222,0-1,0-2,0-4,14-Oct
+2025-26-Kent St.,2025-26,Kent St.,MAC,,140,141,187,193,22-9,15-5,4-Jul,5-Jul,209,293,0-2,3-Jan,3-Sep,1-Dec
+2025-26-Clemson,2025-26,Clemson,ACC,,34,34,57,106,24-10,14-7,3-Oct,5-Jun,57,84,6-Jun,4-Jul,Apr-00,Jul-00
+2025-26-Alabama St.,2025-26,Alabama St.,SWAC,,324,324,326,250,22-Sep,12-Jul,10-Feb,15-Apr,238,58,0-4,3-Jan,0-1,14-Aug
+2025-26-Northern Colo.,2025-26,Northern Colo.,Big Sky,,150,149,222,203,17-12,9-Oct,3-Jul,7-Aug,251,223,0-1,1-Jan,6-Jul,4-Sep
+2025-26-William & Mary,2025-26,William & Mary,CAA,,129,129,202,198,18-12,9-Nov,3-Jul,9-Jun,225,204,0-1,2-Feb,6-Apr,3-Dec
+2025-26-UIC,2025-26,UIC,MVC,,110,110,115,160,17-15,14-9,6-Mar,8-Jul,131,272,2-Jan,5-Mar,7-Jun,1-Jul
+2025-26-Abilene Christian,2025-26,Abilene Christian,WAC,,248,248,153,178,19-Nov,14-Jun,5-May,12-Mar,142,110,0-2,0-5,7-Feb,5-Sep
+2025-26-Western Ky.,2025-26,Western Ky.,CUSA,,160,159,151,177,16-14,10-Nov,4-May,7-May,189,120,0-2,2-Feb,9-Feb,1-Dec
+2025-26-Delaware St.,2025-26,Delaware St.,MEAC,,362,362,356,272,22-May,13-Mar,9-Feb,14-Feb,336,207,0-1,0-3,0-4,14-May
+2025-26-Niagara,2025-26,Niagara,MAAC,,341,341,316,247,22-Jul,15-May,7-Feb,14-Feb,308,169,0-2,0-1,0-5,14-Jul
+2025-26-Florida A&M,2025-26,Florida A&M,SWAC,,312,313,346,262,13-16,8-Dec,8-Jan,11-May,285,38,0-4,0-0,0-3,13-9
+2025-26-Montana St.,2025-26,Montana St.,Big Sky,,128,128,172,186,15-14,7-Dec,7-Mar,11-Jun,184,82,0-3,0-1,6-Aug,4-Jul
+2025-26-Arkansas St.,2025-26,Arkansas St.,Sun Belt,,154,154,230,208,18-12,8-Nov,4-Jul,7-Sep,246,149,0-2,0-2,1-Sep,7-Sep
+2025-26-Stony Brook,2025-26,Stony Brook,CAA,,232,232,211,200,15-15,10-Sep,5-Jun,9-Apr,280,324,0-1,0-3,8-Apr,3-Nov
+2025-26-Arizona St.,2025-26,Arizona St.,Big 12,,73,72,8,82,17-16,12-Aug,4-Sep,9-Feb,14,56,11-Jun,3-Apr,1-Mar,1-Apr
+2025-26-Idaho St.,2025-26,Idaho St.,Big Sky,,236,236,172,186,20-Oct,14-Jun,6-Apr,12-Mar,202,126,0-2,0-3,10-Apr,5-Jun
+2025-26-UNC Greensboro,2025-26,UNC Greensboro,SoCon,,292,292,271,226,13-19,10-Nov,9-Feb,9-Apr,310,253,0-1,0-2,7-Jan,9-Dec
+2025-26-Utah,2025-26,Utah,Big 12,,132,131,25,92,22-Oct,17-Feb,5-Aug,10-Jan,43,236,13-Jan,6-Feb,2-Feb,1-May
+2025-26-Lafayette,2025-26,Lafayette,Patriot,,323,323,307,243,21-Oct,11-Aug,10-Feb,11-May,324,237,0-2,0-1,6-Jan,12-Sep
+2025-26-Drexel,2025-26,Drexel,CAA,,212,212,237,210,16-16,9-Nov,7-May,9-Apr,302,360,0-0,0-4,8-Apr,4-Dec
+2025-26-George Washington,2025-26,George Washington,Atlantic 10,,91,91,111,156,17-15,11-Sep,4-Aug,7-Mar,109,206,5-Jan,0-5,2-Jul,3-Sep
+2025-26-UTSA,2025-26,UTSA,American,,344,342,123,162,25-Mar,17-Jan,8-Feb,12-Feb,125,168,0-3,0-5,7-Jan,10-Feb
+2025-26-North Ala.,2025-26,North Ala.,ASUN,,338,338,288,233,21-Jul,15-Apr,6-Mar,12-Apr,306,215,0-1,1-Jan,6-Jan,13-May
+2025-26-Brown,2025-26,Brown,Ivy League,,296,296,230,208,18-Jul,11-Mar,7-Apr,10-Mar,272,356,0-1,0-2,0-9,6-Jul
+2025-26-Ohio St.,2025-26,Ohio St.,Big Ten,,29,30,36,94,21-12,13-9,3-Aug,6-May,20,159,11-Apr,1-May,Jun-00,Jun-00
+2025-26-Ga. Southern,2025-26,Ga. Southern,Sun Belt,,220,220,271,226,19-16,13-11,5-Jun,8-Jul,346,350,0-1,0-0,7-May,14-8
+2025-26-Indiana,2025-26,Indiana,Big Ten,,41,41,49,102,18-14,12-Sep,2-Sep,8-Mar,33,218,10-Mar,4-Mar,May-00,Jul-00
+2025-26-Saint Joseph's,2025-26,Saint Joseph's,Atlantic 10,,121,119,125,163,20-11,14-6,5-Jun,7-Jun,116,294,0-4,3-Feb,2-Sep,2-Sep
+2025-26-Monmouth,2025-26,Monmouth,CAA,,168,168,211,200,18-15,13-8,7-May,9-Jun,260,320,0-1,0-4,4-Aug,6-Oct
+2025-26-Southern U.,2025-26,Southern U.,SWAC,,279,275,322,249,14-17,13-8,9-Jan,12-Jul,191,7,0-5,0-2,0-1,14-9
+2025-26-Louisiana Tech,2025-26,Louisiana Tech,CUSA,,209,205,216,201,17-14,13-10,4-Apr,10-Apr,288,339,0-1,1-Jan,10-Apr,2-Dec
+2025-26-Oklahoma St.,2025-26,Oklahoma St.,Big 12,,75,74,37,95,19-14,13-Jul,1-Dec,7-Feb,42,249,11-Feb,3-Aug,Feb-00,Jul-00
+2025-26-Portland St.,2025-26,Portland St.,Big Sky,,146,147,216,201,17-11,14-6,5-Mar,7-Aug,264,198,0-1,0-3,4-Aug,3-Sep
+2025-26-Seattle U,2025-26,Seattle U,WCC,,122,122,127,164,18-13,11-Sep,2-Sep,7-May,110,325,5-Jan,1-Jan,6-Mar,13-1
+2025-26-Butler,2025-26,Butler,Big East,,84,85,57,106,16-16,14-Jul,2-Sep,8-Mar,71,156,6-Feb,8-Mar,2-Jun,May-00
+2025-26-Lamar University,2025-26,Lamar University,Southland,,251,250,247,213,19-Oct,15-Jul,4-Mar,10-May,220,166,0-3,0-3,5-Jan,8-Sep
+2025-26-Michigan St.,2025-26,Michigan St.,Big Ten,,11,11,9,84,25-7,15-6,1-Oct,4-Jun,18,60,6-Sep,1-May,Jul-00,Apr-00
+2025-26-Longwood,2025-26,Longwood,Big South,,266,266,311,244,13-16,9-Aug,7-May,10-Apr,328,345,0-1,0-3,4-Jan,8-Dec
+2025-26-Mercer,2025-26,Mercer,SoCon,,182,183,260,221,16-13,8-Nov,5-May,11-May,234,80,0-3,0-1,5-Feb,14-4
+2025-26-Rhode Island,2025-26,Rhode Island,Atlantic 10,,151,152,133,167,16-16,12-Jul,4-Sep,7-Apr,130,285,Mar-00,7-Jan,5-Apr,4-Aug
+2025-26-TCU,2025-26,TCU,Big 12,,39,38,74,114,22-11,8-Dec,3-Oct,5-May,44,160,7-Jun,2-Jul,1-Feb,1-Jul
+2025-26-Denver,2025-26,Denver,Summit League,,241,241,202,198,17-Dec,9-Aug,8-Apr,11-Jun,149,57,0-3,3-Mar,3-Feb,8-Jul
+2025-26-Eastern Ky.,2025-26,Eastern Ky.,ASUN,,291,291,252,216,21-Sep,12-Jul,9-Feb,13-Mar,252,129,0-2,0-2,7-Jan,10-Aug
+2025-26-Cal Poly,2025-26,Cal Poly,Big West,,225,226,142,173,19-Dec,11-Oct,8-Feb,11-Jun,176,122,0-1,4-Mar,8-Apr,6-May
+2025-26-Charlotte,2025-26,Charlotte,American,,173,170,131,166,16-17,10-Nov,7-May,8-Apr,126,242,0-6,4-Jan,5-Apr,2-Nov
+2025-26-Fresno St.,2025-26,Fresno St.,Mountain West,,153,153,94,138,19-Dec,14-Jul,5-May,10-Feb,91,279,0-7,0-8,2-May,2-Jul
+2025-26-St. Bonaventure,2025-26,St. Bonaventure,Atlantic 10,,143,143,111,156,16-17,15-Jun,2-Oct,7-Apr,123,315,0-4,4-Mar,5-May,4-Aug
+2025-26-Western Mich.,2025-26,Western Mich.,MAC,,283,283,181,191,20-Sep,14-Apr,6-May,13-Mar,150,210,0-4,0-3,7-Feb,6-Jul
+2025-26-South Carolina St.,2025-26,South Carolina St.,MEAC,,356,356,335,255,22-Aug,8-Aug,0-14,16-Mar,253,124,0-3,0-2,0-4,13-Aug
+2025-26-Southern Miss.,2025-26,Southern Miss.,Sun Belt,,214,214,235,209,17-16,10-Dec,6-May,11-Apr,269,194,0-1,0-4,7-Apr,13-4
+2025-26-Louisiana,2025-26,Louisiana,Sun Belt,,313,312,250,215,22-Nov,12-Aug,10-Mar,13-Mar,270,235,0-3,0-1,9-Feb,9-Sep
+2025-26-Utah Valley,2025-26,Utah Valley,WAC,,85,84,156,179,22-8,15-5,3-Jul,7-Jun,221,202,0-2,0-2,2-Oct,2-Dec
+2025-26-Creighton,2025-26,Creighton,Big East,,83,82,29,93,15-17,12-Sep,5-Jun,8-Apr,54,43,8-Feb,6-Mar,3-May,May-00
+2025-26-Tennessee Tech,2025-26,Tennessee Tech,OVC,,308,308,321,248,18-Oct,12-Aug,6-Feb,12-May,301,103,0-2,0-0,5-Jan,11-Sep
+2025-26-Wichita St.,2025-26,Wichita St.,American,,74,81,115,160,21-10,14-5,5-Jul,4-Jul,114,200,3-Feb,3-Apr,3-Apr,1-Nov
+2025-26-Illinois,2025-26,Illinois,Big Ten,,8,8,16,87,24-8,15-6,2-Sep,2-Aug,19,41,8-Jul,May-00,Jul-00,May-00
+2025-26-Georgia St.,2025-26,Georgia St.,Sun Belt,,307,307,241,211,22-Aug,12-Jul,10-Jan,12-Mar,298,262,0-2,0-0,10-Mar,10-May
+2025-26-Evansville,2025-26,Evansville,MVC,,306,306,85,128,25-May,18-Mar,7-Feb,12-Jan,104,119,0-3,0-10,8-Apr,4-Jan
+2025-26-Notre Dame,2025-26,Notre Dame,ACC,,94,93,52,103,13-18,14-Apr,4-Sep,9-Feb,49,72,10-Feb,6-Feb,1-Mar,1-Jun
+2025-26-Morehead St.,2025-26,Morehead St.,OVC,,264,265,303,241,17-13,16-6,7-Jan,10-Jul,274,46,0-3,0-1,4-Jan,16-5
+2025-26-Pittsburgh,2025-26,Pittsburgh,ACC,,104,103,45,98,13-20,14-Jun,6-Jul,8-Mar,55,134,10-Feb,6-Mar,3-Mar,1-May
+2025-26-Robert Morris,2025-26,Robert Morris,Horizon,,147,148,255,217,20-11,14-8,3-Jun,7-Aug,312,255,0-1,Jan-00,3-Aug,7-Nov
+2025-26-Belmont,2025-26,Belmont,MVC,,63,63,140,171,25-6,16-5,1-Sep,3-Nov,197,343,Jan-00,2-May,3-Oct,1-Sep
+2025-26-UCLA,2025-26,UCLA,Big Ten,,31,31,45,98,23-11,15-8,3-Aug,6-Apr,31,141,8-May,3-May,Jun-00,Jul-00
+2025-26-Canisius,2025-26,Canisius,MAAC,,343,343,307,243,21-Sep,15-May,6-Apr,13-Mar,338,266,0-1,0-2,0-7,11-Sep
+2025-26-Columbia,2025-26,Columbia,Ivy League,,185,185,230,208,14-12,9-May,3-Sep,7-Jul,210,286,0-3,0-1,5-Apr,3-Oct
+2025-26-Dayton,2025-26,Dayton,Atlantic 10,,69,73,97,139,23-10,14-6,4-Sep,5-Jun,94,107,5-Feb,2-Jun,2-Jul,1-Aug
+2025-26-Virginia Tech,2025-26,Virginia Tech,ACC,,55,55,47,101,19-13,11-Aug,2-Nov,7-Mar,60,199,10-Feb,3-Jun,Apr-00,Jul-00
+2025-26-James Madison,2025-26,James Madison,Sun Belt,,208,209,252,216,17-15,10-Oct,5-Jul,10-May,268,208,0-2,1-Jan,5-May,7-Nov
+2025-26-Kansas,2025-26,Kansas,Big 12,,21,21,2,66,23-10,13-7,3-Oct,6-May,1,17,9-Sep,1-Jul,Apr-00,Mar-00
+2025-26-Missouri,2025-26,Missouri,SEC,,58,58,77,116,20-12,9-Oct,3-Oct,7-May,39,214,7-May,5-Apr,Mar-00,Aug-00
+2025-26-Princeton,2025-26,Princeton,Ivy League,,249,249,161,182,20-Aug,9-May,11-Mar,12-Jan,178,239,0-3,Jan-00,11-Feb,6-May
+2025-26-SIUE,2025-26,SIUE,OVC,,259,259,360,274,16-13,9-Dec,4-Apr,7-Aug,360,323,0-1,0-0,2-Feb,14-10
+2025-26-Western Ill.,2025-26,Western Ill.,OVC,,364,364,326,250,26-Feb,19-Jan,7-Jan,15-Jan,344,240,0-1,0-1,0-4,20-Feb
+2025-26-Milwaukee,2025-26,Milwaukee,Horizon,,253,254,194,195,20-Nov,13-Aug,7-Mar,14-Mar,158,26,0-5,0-1,7-Feb,7-Sep
+2025-26-Southern Ind.,2025-26,Southern Ind.,OVC,,345,345,335,255,23-May,16-Apr,7-Jan,11-Apr,357,319,0-0,0-1,5-Jan,17-Apr
+2025-26-Pepperdine,2025-26,Pepperdine,WCC,,274,274,108,153,23-Jul,15-Apr,8-Mar,11-Feb,101,313,0-6,0-2,10-Feb,5-May
+2025-26-San Diego St.,2025-26,San Diego St.,Mountain West,,47,45,68,110,21-11,16-7,4-May,5-May,76,44,8-Mar,2-Jun,1-Jun,Jun-00
+2025-26-St. Thomas (MN),2025-26,St. Thomas (MN),Summit League,,103,102,280,230,21-9,13-5,4-Aug,6-Aug,317,284,0-1,0-2,2-Jun,15-4
+2025-26-Texas,2025-26,Texas,SEC,,42,42,61,107,17-14,10-Sep,4-Aug,6-Apr,22,68,9-Jun,4-Jan,1-Mar,Jul-00
+2025-26-Jacksonville St.,2025-26,Jacksonville St.,CUSA,,216,216,197,196,17-Dec,11-Oct,6-Feb,8-May,294,349,0-0,0-2,9-May,6-Jul
+2025-26-Radford,2025-26,Radford,Big South,,252,252,267,224,13-16,8-Sep,8-Apr,8-Apr,235,205,0-2,0-4,0-5,13-5
+2025-26-Boston College,2025-26,Boston College,ACC,,158,157,85,128,20-Nov,14-Apr,6-Jul,10-Jan,80,355,0-8,6-Jan,3-May,3-May
+2025-26-Nebraska,2025-26,Nebraska,Big Ten,,14,13,49,102,26-6,15-6,Nov-00,3-Jul,34,306,6-Sep,Jun-00,May-00,Jun-00
+2025-26-Middle Tenn.,2025-26,Middle Tenn.,CUSA,,163,162,133,167,14-15,10-Nov,5-Mar,8-May,139,16,0-2,0-4,5-Aug,4-Jun
+2025-26-Mississippi St.,2025-26,Mississippi St.,SEC,,112,114,25,92,13-19,14-May,5-Aug,6-Apr,32,179,12-Jan,5-Apr,2-Mar,May-00
+2025-26-Valparaiso,2025-26,Valparaiso,MVC,,156,155,130,165,17-15,10-Dec,5-May,10-Apr,119,225,0-4,6-Feb,3-Jun,2-Sep
+2025-26-Marist,2025-26,Marist,MAAC,,181,181,328,251,18-12,13-9,3-May,7-Jul,364,354,0-0,0-1,0-8,18-3
+2025-26-New Haven,2025-26,New Haven,NEC,,325,325,338,256,17-Nov,9-Sep,8-Feb,11-May,277,73,0-3,0-0,0-4,10-Nov
+2025-26-Oklahoma,2025-26,Oklahoma,SEC,,48,47,66,109,19-15,12-Sep,3-Oct,7-Apr,29,127,10-Apr,5-Jun,Feb-00,Jul-00
+2025-26-Iona,2025-26,Iona,MAAC,,237,238,316,247,18-14,11-Oct,3-Aug,8-Jun,337,257,0-1,0-1,4-Mar,15-8
+2025-26-Alcorn,2025-26,Alcorn,SWAC,,349,349,297,239,23-Sep,12-Aug,11-Jan,18-Feb,188,19,0-4,0-3,0-4,12-Sep
+2025-26-FDU,2025-26,FDU,NEC,,334,334,338,256,21-Aug,11-Aug,0-10,15-Mar,275,69,0-2,0-2,0-4,13-Aug
+2025-26-Grambling,2025-26,Grambling,SWAC,,305,304,353,270,19-Dec,12-Aug,7-Apr,13-Apr,325,138,0-2,0-1,3-Jan,13-Nov
+2025-26-Loyola Chicago,2025-26,Loyola Chicago,Atlantic 10,,278,280,101,147,24-Sep,15-May,9-Apr,9-Jan,108,295,5-Jan,0-5,10-Mar,4-May
+2025-26-The Citadel,2025-26,The Citadel,SoCon,,346,346,271,226,22-Aug,12-Aug,0-10,12-Mar,335,322,0-0,0-2,0-10,10-Aug
+2025-26-SFA,2025-26,SFA,Southland,,89,89,269,225,26-5,21-3,2-May,3-Dec,307,353,0-1,1-Feb,2-May,19-1
+2025-26-Sacramento St.,2025-26,Sacramento St.,Big Sky,,269,269,136,168,21-Jul,13-Jun,8-Jan,0-16,147,51,0-3,0-3,13-Feb,2-May
+2025-26-Towson,2025-26,Towson,CAA,,159,158,161,182,17-15,10-Nov,5-Jun,10-Mar,161,88,0-3,0-3,6-Jun,3-Nov
+2025-26-Saint Peter's,2025-26,Saint Peter's,MAAC,,233,233,307,243,16-12,14-7,5-Feb,10-Apr,309,131,0-2,0-1,3-Mar,13-6
+2025-26-Ole Miss,2025-26,Ole Miss,SEC,,82,83,37,95,15-20,15-Jul,5-Aug,7-Mar,15,146,14-May,2-Feb,4-Jan,Jul-00
+2025-26-Utah Tech,2025-26,Utah Tech,WAC,,176,176,153,178,16-15,8-Dec,7-Apr,10-Jun,129,76,0-3,0-6,3-May,3-Nov
+2025-26-Yale,2025-26,Yale,Ivy League,,65,66,177,188,22-5,3-Dec,2-Oct,3-Sep,223,220,0-1,Jan-00,3-Dec,1-Sep
+2025-26-Ark.-Pine Bluff,2025-26,Ark.-Pine Bluff,SWAC,,316,316,295,238,19-Nov,9-Oct,10-Jan,14-Jun,154,8,0-6,1-Jan,0-3,9-Oct
+2025-26-FIU,2025-26,FIU,CUSA,,197,196,157,180,17-Dec,13-Aug,4-Apr,10-Mar,180,91,0-2,0-3,6-Apr,6-Aug
+2025-26-Georgetown,2025-26,Georgetown,Big East,,90,90,56,105,16-18,15-Aug,3-Aug,8-Apr,66,142,9-Jan,6-Apr,3-May,Jun-00
+2025-26-Stanford,2025-26,Stanford,ACC,,61,61,49,102,20-12,10-Sep,2-Nov,5-May,74,289,6-May,2-Apr,4-Apr,Jul-00
+2025-26-Toledo,2025-26,Toledo,MAC,,130,134,157,180,17-15,13-8,7-Apr,9-May,163,176,0-3,3-Jan,7-Apr,2-Dec
+2025-26-Ball St.,2025-26,Ball St.,MAC,,299,299,257,218,19-Oct,11-Jul,8-Mar,11-Apr,259,332,0-2,0-3,0-8,6-Oct
+2025-26-Chicago St.,2025-26,Chicago St.,NEC,,340,340,278,228,25-Jun,14-May,11-Jan,19-Feb,186,25,0-3,0-4,0-5,13-Jun
+2025-26-UNCW,2025-26,UNCW,CAA,,96,96,250,215,24-6,15-4,2-Sep,2-Nov,345,362,0-0,0-1,3-Aug,16-2
+2025-26-NJIT,2025-26,NJIT,America East,,327,327,335,255,15-17,7-Nov,10-Apr,11-Aug,287,161,0-2,0-2,6-Feb,13-7
+2025-26-VMI,2025-26,VMI,SoCon,,359,359,285,231,26-Mar,18-Jan,8-Feb,14-Jan,314,270,0-2,0-0,0-9,15-Mar
+2025-26-Binghamton,2025-26,Binghamton,America East,,360,360,363,283,23-May,12-Apr,11-Jan,14-Jan,363,336,0-0,0-3,0-2,18-May
+2025-26-South Dakota St.,2025-26,South Dakota St.,Summit League,,210,210,227,206,18-Nov,10-Jul,8-Apr,9-Apr,211,152,0-2,0-5,5-Jan,6-Oct
+2025-26-Harvard,2025-26,Harvard,Ivy League,,152,151,237,210,16-12,5-Oct,7-Jun,6-Sep,229,308,1-Jan,0-1,7-May,3-Oct
+2025-26-UC Santa Barbara,2025-26,UC Santa Barbara,Big West,,142,142,187,193,16-14,10-Nov,4-May,8-May,278,311,0-1,3-Jan,7-Mar,3-Dec
+2025-26-Fla. Atlantic,2025-26,Fla. Atlantic,American,,123,123,111,156,16-15,10-Oct,5-Jun,8-Apr,117,167,0-3,6-Feb,4-Jul,2-Jul
+2025-26-Weber St.,2025-26,Weber St.,Big Sky,,202,203,187,193,14-16,9-Oct,7-Apr,10-May,228,201,0-1,0-5,6-Apr,4-Oct
+2025-26-Boston U.,2025-26,Boston U.,Patriot,,263,264,342,258,16-17,9-Dec,8-Apr,12-Jun,356,333,0-1,0-0,6-Feb,14-10
+2025-26-Wake Forest,2025-26,Wake Forest,ACC,,67,67,42,97,17-16,12-Aug,4-Sep,7-Feb,45,97,10-Jan,5-Jun,1-Mar,Jul-00
+2025-26-West Virginia,2025-26,West Virginia,Big 12,,59,59,76,115,18-14,10-Sep,4-Sep,6-Mar,64,271,9-May,4-Feb,1-Mar,Aug-00
+2025-26-Central Ark.,2025-26,Central Ark.,ASUN,,166,166,280,230,20-12,17-4,8-Mar,10-Jun,198,32,0-4,0-0,3-Mar,17-5
+2025-26-Jackson St.,2025-26,Jackson St.,SWAC,,347,347,295,238,21-Dec,9-Nov,12-Jan,15-Apr,133,5,0-7,0-0,0-3,11-Dec
+2025-26-USC Upstate,2025-26,USC Upstate,Big South,,303,302,259,220,19-Oct,12-May,7-May,13-Mar,204,154,0-2,0-4,4-Jan,9-Sep
+2025-26-Cleveland St.,2025-26,Cleveland St.,Horizon,,317,317,197,196,22-Aug,15-Jul,7-Jan,13-Mar,250,151,0-2,2-Jan,10-Jan,8-Jun
+2025-26-North Florida,2025-26,North Florida,ASUN,,337,337,243,212,25-May,14-May,0-11,14-Feb,143,21,0-5,0-0,0-4,16-May
+2025-26-Bowling Green,2025-26,Bowling Green,MAC,,157,156,207,199,15-14,10-Sep,4-Jun,6-Jun,254,330,0-1,4-Jan,6-Apr,3-Oct
+2025-26-Bryant,2025-26,Bryant,America East,,354,354,322,249,22-Jul,12-May,10-Feb,17-Jan,286,137,0-2,0-1,0-8,11-Jul
+2025-26-Georgia,2025-26,Georgia,SEC,,33,33,71,113,22-10,9-Oct,1-Dec,4-Jun,65,283,7-Jun,2-Jun,1-Jan,Sep-00
+2025-26-Villanova,2025-26,Villanova,Big East,,35,35,42,97,24-8,15-6,2-Sep,3-Sep,73,95,6-Feb,1-Aug,1-Sep,May-00
+2025-26-San Francisco,2025-26,San Francisco,WCC,,119,120,102,148,16-16,11-Sep,5-Jul,7-Apr,95,196,0-6,4-Mar,3-Jun,3-Jul
+2025-26-Nevada,2025-26,Nevada,Mountain West,,70,70,83,125,22-12,14-9,3-Aug,8-Apr,89,213,6-Jan,4-May,Nov-00,2-May
+2025-26-American,2025-26,American,Patriot,,256,256,300,240,14-16,10-Sep,6-May,10-May,271,109,0-3,0-2,2-Feb,9-Dec
+2025-26-Tarleton St.,2025-26,Tarleton St.,WAC,,230,230,145,174,18-Oct,14-May,4-May,11-Apr,136,83,0-3,0-4,4-Feb,7-Aug
+2025-26-Miami (FL),2025-26,Miami (FL),ACC,,32,32,81,124,25-8,14-6,2-Nov,2-Aug,72,216,6-Jun,2-Jun,Mar-00,Oct-00
+2025-26-Northern Ky.,2025-26,Northern Ky.,Horizon,,184,184,252,216,17-14,11-Dec,3-May,8-Jul,303,278,0-1,0-1,8-Feb,15-4
+2025-26-Auburn,2025-26,Auburn,SEC,,38,39,6,80,17-16,12-Aug,4-Sep,8-Feb,3,15,13-Apr,2-Mar,1-Apr,Jun-00
+2025-26-Alabama A&M,2025-26,Alabama A&M,SWAC,,310,310,356,272,15-15,9-Nov,6-Apr,8-Apr,347,189,0-2,0-1,0-2,15-10
+2025-26-Campbell,2025-26,Campbell,CAA,,200,199,136,168,14-18,11-Oct,7-Apr,13-Mar,115,35,0-4,3-Feb,8-Mar,3-Sep
+2025-26-Dartmouth,2025-26,Dartmouth,Ivy League,,265,263,194,195,16-Sep,9-May,7-Apr,8-Jun,185,244,0-2,0-3,4-Apr,7-May
+2025-26-Gardner-Webb,2025-26,Gardner-Webb,Big South,,361,361,181,191,28-Feb,16-Feb,0-12,0-16,148,90,0-2,0-6,0-7,13-Feb
+2025-26-DePaul,2025-26,DePaul,Big East,,102,101,80,121,16-16,13-Aug,3-Aug,7-Apr,79,331,5-Feb,8-Mar,2-May,1-Jun
+2025-26-Jacksonville,2025-26,Jacksonville,ASUN,,297,297,267,224,20-Oct,12-Jul,8-Mar,14-Mar,216,75,0-3,0-2,0-6,9-Oct
+2025-26-Northern Ariz.,2025-26,Northern Ariz.,Big Sky,,315,315,176,187,22-Jul,15-Apr,7-Mar,13-Jan,218,186,0-2,0-2,11-Feb,7-May
+2025-26-Southern Utah,2025-26,Southern Utah,WAC,,272,272,127,164,22-Jul,13-Jun,9-Jan,15-Feb,132,94,0-3,0-2,12-Feb,5-May
+2025-26-Navy,2025-26,Navy,Patriot,,136,137,362,277,24-7,18-2,5-Jun,4-Oct,355,291,0-1,0-2,1-Jan,23-3
+2025-26-Kansas City,2025-26,Kansas City,Summit League,,358,358,207,199,27-Jan,16-Jan,0-11,15-Jan,179,87,0-4,0-3,0-5,15-Jan
+2025-26-Boise St.,2025-26,Boise St.,Mountain West,,60,60,54,104,19-11,9-Dec,2-Jul,5-Jun,81,55,6-Feb,3-Jul,1-Jul,1-Mar
+2025-26-Maine,2025-26,Maine,America East,,339,339,349,265,24-Jul,11-Jun,13-Jan,14-Apr,352,314,0-1,0-2,0-7,14-Jul
+2025-26-Kansas St.,2025-26,Kansas St.,Big 12,,100,99,29,93,20-Dec,16-Mar,4-Sep,10-Jan,26,132,0-14,5-May,1-Feb,May-00
+2025-26-Wofford,2025-26,Wofford,SoCon,,245,246,297,239,17-13,8-Nov,5-Jun,7-Sep,313,260,0-2,0-1,4-Mar,14-6
+2025-26-Army West Point,2025-26,Army West Point,Patriot,,336,336,322,249,21-Sep,14-May,7-Apr,10-May,326,231,0-1,0-1,7-Jan,12-Aug
+2025-26-South Carolina,2025-26,South Carolina,SEC,,108,108,71,113,13-19,15-Apr,4-Sep,8-Feb,50,307,0-13,5-Mar,1-Jan,Sep-00
+2025-26-SMU,2025-26,SMU,ACC,,37,37,23,91,20-13,11-Sep,2-Nov,8-Mar,58,190,9-Apr,4-May,May-00,Jun-00
+2025-26-Austin Peay,2025-26,Austin Peay,ASUN,,164,164,307,243,20-9,16-4,5-Apr,7-Sep,319,173,0-1,0-3,3-Feb,18-2
+2025-26-Marquette,2025-26,Marquette,Big East,,93,95,39,96,20-Dec,14-Jul,6-May,10-Feb,68,71,9-Jan,8-Feb,3-May,Apr-00
+2025-26-Mount St. Mary's,2025-26,Mount St. Mary's,MAAC,,281,281,305,242,14-17,10-Nov,7-Mar,11-Jul,290,140,0-3,0-0,7-Feb,7-Dec
