@@ -591,13 +591,12 @@ elif page == "Championship-Caliber Insights":
         predicts the raw score differential for each matchup, flagging games likely
         to be close or upsets.
         - **Seed Gap Analysis** — re-ranks every team based on advanced metrics
-        (efficiency margins, strength of schedule, roster talent, coaching tenure,
-        and more) to produce a *Model Seed* and a *Championship Caliber* that capture
-        which teams are over- or under-seeded by the selection committee. this helps identify hidden gems and potential sleepers.
+        (efficiency margins, offensive and defensive strengths, roster talent, coaching tenure,
+        and more) to produce a *Model Seed* and a *Championship Caliber metric* that capture
+        which teams are over- or under-seeded by the selection committee.
 
-        The below Head 2 Head predictor weighs these two model outputsto project a winner, an estimated
-        point spread, and a confidence tier — so you can see not just *who* is
-        predicted to win, but *how convincingly* and whether an upset is lurking.
+        The below Head-to-Head predictor weighs these two model outputs to project a winner and an estimated
+        point spread, so you can see not just *who* is predicted to win, but *how convincingly* and whether an upset is lurking.
         """,
         unsafe_allow_html=True,
     )
