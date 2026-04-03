@@ -722,7 +722,7 @@ elif page == "Championship-Caliber Insights":
                     <tr><td style="padding:4px 0;color:#7a99b8">Seed Delta</td>
                         <td style="text-align:right;font-weight:600;color:{delta_color}">
                         {delta_str}</td></tr>
-                    <tr><td style="padding:4px 0;color:#7a99b8">Juggernaut Score</td>
+                    <tr><td style="padding:4px 0;color:#7a99b8">Championship Caliber</td>
                         <td style="text-align:right;font-weight:600">
                         {jug:.4f}</td></tr>
                 </table>
@@ -752,70 +752,3 @@ elif page == "Championship-Caliber Insights":
                 "the prediction is powered purely by the Seed Gap Analysis scores.",
                 icon="📌",
             )
-
-        st.markdown("#### Strength Radar")
-
-        def _safe(val, fallback=0.0):
-            try:
-                v = float(val)
-                return v if not np.isnan(v) else fallback
-            except Exception:
-                return fallback
-
-        jug_a  = _safe(profile_a.get("Championship Caliber"), 0)
-        jug_b  = _safe(profile_b.get("Championship Caliber"), 0)
-        ts_a   = _safe(profile_a.get("Model Seed"), 8)
-        ts_b   = _safe(profile_b.get("Model Seed"), 8)
-        sd_a   = _safe(profile_a.get("Seed Delta"), 0)
-        sd_b   = _safe(profile_b.get("Seed Delta"), 0)
-
-        max_jug = max(jug_a, jug_b, 0.001)
-        radar_a = [
-            jug_a / max_jug,
-            max(0, 1 - (ts_a - 1) / 15),
-            max(0, min(1, (sd_a + 5) / 10)),
-            result["win_pct_a"] / 100,
-            max(0, 1 - (ts_a - 1) / 15) * 0.9,
-        ]
-        radar_b = [
-            jug_b / max_jug,
-            max(0, 1 - (ts_b - 1) / 15),
-            max(0, min(1, (sd_b + 5) / 10)),
-            result["win_pct_b"] / 100,
-            max(0, 1 - (ts_b - 1) / 15) * 0.9,
-        ]
-        categories = [
-            "Championship Caliber", "Model Seed Strength",
-            "Hidden Value", "Win Probability", "Tournament Ceiling",
-        ]
-
-        fig_radar = go.Figure()
-        for vals, name, color in [
-            (radar_a, team_a, "#f0a500"),
-            (radar_b, team_b, "#5bb8f5"),
-        ]:
-            vals_loop = vals + [vals[0]]
-            cats_loop = categories + [categories[0]]
-            fig_radar.add_trace(go.Scatterpolar(
-                r=vals_loop, theta=cats_loop, fill="toself",
-                name=name,
-                line_color=color,
-                fillcolor=color.replace("#", "rgba(").replace("f0a500", "240,165,0,0.15)")
-                                .replace("5bb8f5", "91,184,245,0.15)"),
-            ))
-
-        fig_radar.update_layout(
-            polar=dict(
-                radialaxis=dict(visible=True, range=[0, 1], tickfont_color="#7a99b8",
-                                gridcolor="#1e3a55", linecolor="#1e3a55"),
-                angularaxis=dict(tickfont=dict(size=11, color="#d0dce8"),
-                                linecolor="#1e3a55", gridcolor="#1e3a55"),
-                bgcolor="rgba(0,0,0,0)",
-            ),
-            paper_bgcolor="rgba(0,0,0,0)",
-            font_color="white",
-            legend=dict(font=dict(size=12)),
-            height=380,
-            margin=dict(t=20, b=20),
-        )
-        st.plotly_chart(fig_radar, use_container_width=True)
